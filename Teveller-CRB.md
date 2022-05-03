@@ -4,12 +4,12 @@ The Swashbuckling Renaissance RPG of Macroeconomics and Logistics 
 
 Basic Rules
 Die Roll Conventions
-Cepheus Deluxe uses common six-sided dice. We note each die you need to roll as a “D”. Unless noted otherwise, “2D”, for example, means “roll two dice and add the results together”.
+TevellerRPG is powered by the Cepheus Engine, and uses common six-sided dice. We note each die you need to roll as a “D”. Unless noted otherwise, “2D”, for example, means “roll two dice and add the results together”.
 In this game, DM means Dice Modifier – a number you add or subtract from a dice roll. For example, “2D, DM-2” means “roll two dice, add the results together, and then subtract 2 from the total”.
 Another die roll type is “D66”. In that case, throw two six-sided dice, but do not add the results together. Instead, use one die as the “tens” and the other as the “ones”, providing 36 results.
 
 The basic game mechanic
-The basic mechanic of Cepheus Deluxe is the throw, and when we say this, we mean dice throw. Throw 2D, add the relevant skill and characteristic DMs, and if the total is equal or higher than the target number, you succeed. For example, “throw Athletics/STR 8+” means “throw 2D and add your Athletics skill level and Strength Dice Modifiers; if the total is 8 or more, you succeed” The amount by which your total throw exceeds or misses the target number is called the Effect.
+The basic mechanic of TevellerRPG is the throw, and when we say this, we mean dice throw. Throw 2D, add the relevant skill and characteristic DMs, and if the total is equal or higher than the target number, you succeed. For example, “throw Athletics/STR 8+” means “throw 2D and add your Athletics skill level and Strength Dice Modifiers; if the total is 8 or more, you succeed” The amount by which your total throw exceeds or misses the target number is called the Effect.
 If a task is even remotely feasible, a natural (unmodified) roll of 2 is always a failure, while a natural (unmodified) roll of 12 is always a success. This is regardless of target numbers or further circumstances.
 Opposed throws: in a situation where two characters oppose each other in an attempt, for example, a spy trying to sneak past a guard, each character throws 2D plus the appropriate skill and characteristic modifier; the higher roll wins. On a tie, the character with the higher total DM to the throw (from skill, characteristics, etc.) wins. If both characters are equally competent, reroll the tie.
 Unskilled characters: if a character attempts a throw with a skill they do not possess, they suffer DM-3 to that throw.
@@ -35,7 +35,7 @@ Fatigue
 Fatigue is common in the demanding sci-fi future. When Fatigued, a character suffers DM-2 to all throws. 8 hours of rest remove Fatigue.
 
 Optional Rule: Hero Points
-The Cepheus Deluxe rules present a universe of gritty heroism: heroes can be powerful, but they are still human and constrained by this harsh reality. However, if you desire larger-than-life science-fiction heroes, use the following rule.
+The TevellerRPG rules present a universe of gritty heroism: heroes can be powerful, but they are still human and constrained by this harsh reality. However, if you desire larger-than-life science-fiction heroes, use the following rule.
 Each player starts each game session with 2 personal Hero Points. The group also has an additional number of Hero Points equal to the number of players present that session.
 Each time a player fails in a skill or characteristic throw of at least 8+ with an Effect of 6 or more, the group Hero Point pool increases by 1.
 Each time a player succeeds in a skill or characteristic throw of at least 8+ with an Effect of 6 or more, their own Hero Point pool increases by 1.
@@ -50,10 +50,10 @@ Optional Rule: Only Individual Hero Points
 For a more modest Hero Point system, ignore the Group Hero Point Pool and only grant Individual Hero Points.
 
 Skills
-Characters in Cepheus Deluxe use a variety of skills to confront the challenges awaiting them among the stars, from piloting a starship to shooting a laser.
+Characters in TevellerRPG use a variety of skills to confront the challenges awaiting them among the stars, from piloting a starship to shooting a laser.
 Skills are a character’s greatest asset. Skilled characters are competent. A Skill at level 1 (denoted “Skill 1”) represents someone who is employable; Skill 3 denotes a trusted professional; and Skill 5 represents a world-class expert. For example, a newly trained paramedic has Medicine 1; an experienced physician has Medicine 3; and a cutting-edge cyber-surgeon, skilled beyond the typical physician, has Medicine 5. The task resolution system takes this into account – professionals should automatically succeed at routine tasks (difficulty 6+) and easily perform average tasks (difficulty 8+), while experts will automatically succeed in routine and average tasks and easily manage difficult (10+) ones.
 
-A note about the Cepheus Engine Core and System Reference Document: Cepheus Deluxe skills are somewhat different than those found in the Cepheus Engine Core rules but are easily compatible. Most notably, Repair is the combination of Electronics and Mechanics; Admin subsumes the Advocate skill; Carousing subsumes the Gambling skill.
+A note about the Cepheus Engine Core and System Reference Document: TevellerRPG skills are somewhat different than those found in the Cepheus Engine Core rules but are easily compatible. Most notably, Repair is the combination of Electronics and Mechanics; Admin subsumes the Advocate skill; Carousing subsumes the Gambling skill.
 
 Zero-Level Skills
 Normally, a character is either skilled in a task or unskilled. In the latter case, they suffer DM-3 for lacking the appropriate skill. However, to facilitate play, we recommend that the Referee grant a few skills as “Zero-level” to each character at the start of the game. This means that while the character is not skilled enough to hold down a job with that skill, and does not enjoy a positive DM on rolls, the character is familiar enough with that skill to avoid the unskilled penalty (DM-3). The recommended Zero-level Skills for all adventurers are shown in the table below.
@@ -104,10 +104,10 @@ Languages
 Characters know a number of languages, in addition to their cultures' standard language, equal to their EDU modifier (see Characteristic Modifiers in Chapter 4: Character Generation). After character generation, characters may learn additional languages using the experience rules (see below) by purchasing the language for 8 XP. There are no skill levels of a language; either a character knows that language or they do not. The Referee is free to allow a Level 0 version of a language skill, representing a basic understanding of the language.
 
 A note on Prospecting
-Uranium Fever, a belter sourcebook by Stellagama Publishing, uses the Prospecting and Comms skills for asteroid mining. When using Cepheus Deluxe with that book, use the Science skill instead of Prospecting and Computer instead of Comms.
+Uranium Fever, a belter sourcebook by Stellagama Publishing, uses the Prospecting and Comms skills for asteroid mining. When using TevellerRPG with that book, use the Science skill instead of Prospecting and Computer instead of Comms.
 
 Skill Advancement
-Cepheus Deluxe characters can slowly advance in skill through experience. Players advance their characters by spending Experience Points (XP). A Character will typically gain 1 XP per session. The Referee might award 2 XP for a session where the player did an outstanding job, or if the character was very successful. Characters can only advance skills during downtime in game: during periods of relative quiet and inactivity. Note that advancement is incremental: for example, to increase a skill from Level 1 to Level 3, the character must first purchase Level 2 and only then Level 3. In general, use of XP should allow a character to increase one skill by one level per game year.
+TevellerRPG characters can slowly advance in skill through experience. Players advance their characters by spending Experience Points (XP). A Character will typically gain 1 XP per session. The Referee might award 2 XP for a session where the player did an outstanding job, or if the character was very successful. Characters can only advance skills during downtime in game: during periods of relative quiet and inactivity. Note that advancement is incremental: for example, to increase a skill from Level 1 to Level 3, the character must first purchase Level 2 and only then Level 3. In general, use of XP should allow a character to increase one skill by one level per game year.
 Increasing Skills
 Spend XP to increase skills per the following table. Skills can be improved by exercise or study, represented by spending XP, as noted in the table below.
  
@@ -1121,11 +1121,11 @@ Equipment
 This chapter describes some of the more common items found in an interstellar space opera setting. All prices are in Credits (Cr), the interstellar currency. Thousands of Credits are noted as KCr, and millions of Credits are noted as MCr. A Credit is a futuristic currency roughly equivalent to $3 USD in 2021CE currency.
 
 Encumbrance
-To facilitate fast play, Cepheus Deluxe avoids the careful accounting of equipment by weight. Instead, a character may carry a number of major “items” equal to 7 plus their STR DM with no penalty.  This represents a Light Load. Characters may carry items beyond this, up to three times the base amount, which constitutes a Heavy Load. A heavily loaded character suffers DM-2 to all physical task throws and can only use a maximum of one move action in a combat round.
+To facilitate fast play, TevellerRPG avoids the careful accounting of equipment by weight. Instead, a character may carry a number of major “items” equal to 7 plus their STR DM with no penalty.  This represents a Light Load. Characters may carry items beyond this, up to three times the base amount, which constitutes a Heavy Load. A heavily loaded character suffers DM-2 to all physical task throws and can only use a maximum of one move action in a combat round.
 An “item” is anything of significant size: a gun, a medkit, a standard length of rope. Larger items may count as more than one item as noted in their description. Small items, such as a compass, a needle, or a candle, do not count as items, subject to the Referee’s judgment.
 
 Tech Levels
-Cepheus Deluxe assumes an interstellar society – as befitting a space opera game. However, not all worlds in such a universe possess the same level of technological development, particularly in frontier or post-apocalyptic settings. Furthermore, Referees may want to choose between grittier, nearer-future interstellar sci-fi and no-holds-barred far-future galactic space-opera. For this purpose, Cepheus Deluxe ranks civilizations according to 17 tech levels, from 0 to 16. We present some rough historical comparisons with our own world to assist Referees and players in their understanding of tech levels. However, these comparisons should not imply that your own game must follow the same technological development.
+TevellerRPG assumes an interstellar society – as befitting a space opera game. However, not all worlds in such a universe possess the same level of technological development, particularly in frontier or post-apocalyptic settings. Furthermore, Referees may want to choose between grittier, nearer-future interstellar sci-fi and no-holds-barred far-future galactic space-opera. For this purpose, TevellerRPG ranks civilizations according to 17 tech levels, from 0 to 16. We present some rough historical comparisons with our own world to assist Referees and players in their understanding of tech levels. However, these comparisons should not imply that your own game must follow the same technological development.
 
 TL	Notable Characteristics	Historical Comparison
 0	No technology, equivalent to the Stone age. Fire, agriculture, and stone tools.	Agricultural revolution, Stonehenge
@@ -1202,7 +1202,7 @@ Cybernetics
 Cybernetic implants, a major theme in many science fiction tales, replace or upgrade body parts with biomechanical technology. Using advanced material science and cutting-edge knowledge of the neural system, cybernetics augment the organic body, adding capabilities beyond those given to it by evolution.
 
 Cybernetic Grades and Points
-Cybernetics in Cepheus Deluxe come in four grades, detailed below. Each cybernetic implant cost Cybernetic Points. The implant’s Grade is the primary determiner of the number of Cybernetic Points it uses. Characters may have up to 6 Cybernetic Points’ worth of implants without penalty. Any more cybernetics, and the character will suffer from cyber-dissociation – being more machine than human. Cyber-dissociation applies a DM-2 penalty to all social skill throws (using SOC or any other characteristics). The only exception is when the character intends to intimidate others. In that case, there is no penalty.
+Cybernetics in TevellerRPG come in four grades, detailed below. Each cybernetic implant cost Cybernetic Points. The implant’s Grade is the primary determiner of the number of Cybernetic Points it uses. Characters may have up to 6 Cybernetic Points’ worth of implants without penalty. Any more cybernetics, and the character will suffer from cyber-dissociation – being more machine than human. Cyber-dissociation applies a DM-2 penalty to all social skill throws (using SOC or any other characteristics). The only exception is when the character intends to intimidate others. In that case, there is no penalty.
 
 Cybernetic Grades and Points
 Grade	Cybernetic Point Cost	Typical cost	Description
@@ -1524,9 +1524,9 @@ Weapons: weapons included in the vehicle’s price by default. Heavy weapons use
 Active Countermeasures: When a vehicle equipped with Active Countermeasures is attacked by a rocket, missile, or grenade, throw 2D; on 7+, the Countermeasures intercept the munition, neutralizing the attack.
 
 Cepheus Engine SRD/Core Conversion Note
-To convert Cepheus Engine SRD/Core vehicle armor to Cepheus Deluxe, use the following table:
+To convert Cepheus Engine SRD/Core vehicle armor to TevellerRPG, use the following table:
 
-CE: SRD/Core Armor Rating	Cepheus Deluxe Armor Class
+CE: SRD/Core Armor Rating	TevellerRPG Armor Class
 6 or lower	Unarmored
 7-24	Light
 25 or higher and/or Hull/Structure of 40/40 or greater	Heavy
@@ -2197,7 +2197,7 @@ Armor
 Subtract the armor’s protection rating from any physical damage caused to the character before applying the damage to the character’s Stamina and Lifeblood.
 
 Optional Rule: Armor as a Penalty to Hit
-Armor in the core Cepheus Deluxe rules absorbs damage. However, some players and Referees prefer armor to render its wearer harder to hit, rather than absorb damage. For such groups, we present the following simple rules.
+Armor in the core TevellerRPG rules absorbs damage. However, some players and Referees prefer armor to render its wearer harder to hit, rather than absorb damage. For such groups, we present the following simple rules.
 
 	None	Leather
 Jacket	Bulletproof
@@ -2222,7 +2222,7 @@ Lasers include all laser-based weapons, including Blasters.
 Heavy Weapons include GMPGs, explosives, Plasma Weapons, Fusion Weapons, and similar heavy heavy weapons.
 
 Applying Damage
-Cepheus Deluxe uses two attributes to denote a character’s resistance to damage. The first is Stamina, which represents the character’s toughness and ability to shrug off minor wounds. Lifeblood is the character’s health: loss of Lifeblood represents more serious damage.
+TevellerRPG uses two attributes to denote a character’s resistance to damage. The first is Stamina, which represents the character’s toughness and ability to shrug off minor wounds. Lifeblood is the character’s health: loss of Lifeblood represents more serious damage.
 After any successful attack, apply damage, after first subtracting armor. All damage is first applied to the target’s Stamina. After Stamina reaches zero, any excess or additional damage is then applied to the target’s Lifeblood.
 
 Knockdown
@@ -2423,7 +2423,7 @@ Starship-Scale Weaponry against Vehicle Targets
 Civilian ship lasers are considered Gunnery Weapons vs. vehicles. Civilian ship missiles are considered Heavy weapons but cause 1D AV hits when penetrating vehicle armor. Any heavier starship weapons will destroy any vehicle on a successful hit. Any starship weapons will utterly vaporize human-sized targets.
 
 Psionics
-Many science fiction genres posit that in the future, humanity may unlock the powers of the mind, allowing humans to reliably produce tangible psychic effects. Note that in Cepheus Deluxe, psionics are rare and potentially very powerful. Their use in a campaign is subject to the Referee’s discretion.
+Many science fiction genres posit that in the future, humanity may unlock the powers of the mind, allowing humans to reliably produce tangible psychic effects. Note that in TevellerRPG, psionics are rare and potentially very powerful. Their use in a campaign is subject to the Referee’s discretion.
 
 Psionic Training
 The Referee may decide to allow one or more psionic characters. In that case, roll 2D to determine the character’s Psionic Strength (PSI) characteristic. The character may gain one of the following psionic talents. They may also attempt to gain further psionic talents. For each additional psionic talent, throw PSI 8+ to receive that talent. Apply a DM-1 per talent the character already has. The five psionic talents are:
@@ -2505,7 +2505,7 @@ Starship Operations
 The stars await! Adventurers ply the star-lanes and boldly venture into the unknown; others may serve in a navy, hunting pirates, or raiding enemy shipping. Still others may mine asteroid belts for valuable ores, smuggle goods to distant planets, or even engage in piracy. This chapter covers interplanetary and interstellar travel, as well as starship operations and procedures.
 
 Interplanetary Travel
-Starships and other spacecraft in Cepheus Deluxe have reactionless real-space thrusters with an acceleration rating from 1G to 6Gs. Ships normally travel under full acceleration halfway to their destination, then decelerate for the other half of the journey. The following table presents abstracted in-system travel times according to the ship’s acceleration.
+Starships and other spacecraft in TevellerRPG have reactionless real-space thrusters with an acceleration rating from 1G to 6Gs. Ships normally travel under full acceleration halfway to their destination, then decelerate for the other half of the journey. The following table presents abstracted in-system travel times according to the ship’s acceleration.
 
 Common interplanetary travel times by acceleration
 Destination	1-G	2-G	3-G	4-G	5-G	6G
@@ -2521,7 +2521,7 @@ Mainworld to Far Gas Giant	6d, 23h	4d, 22h	4d	3d, 11h	3d, 3h	2d, 20h
 Travel times are abstracted and, as noted above, generally assume constant acceleration up to the halfway point and then constant deceleration down to the destination. Ships intending to jump will not decelerate towards the jump point. They will emerge from a jump at the speed they entered it.
 
 Interstellar Travel
-Interstellar travel in Cepheus Deluxe uses a faster-than-light engine called the Jump Drive. Jump Drives are rated according to the maximum range in parsecs (represented on the star map as hexagons) they may travel in a single jump. Jump-1 drives can propel a vessel to an adjacent hex, while Jump-3 drives will move a ship up to three hexes. A single voyage through jump-space takes 1 week regardless of the distance traveled. Jump drives require a significant gravity well, like a star system, at both ends of the jump, but not too much gravity. It is impossible to purposefully jump to a destination without a star system. Jump drives are safe to use only at a certain distance from a planetary or stellar body. This is called the Jump Point or Jump Distance. A jump requires an amount of liquid hydrogen fuel equal to 10% of the ship’s volume per parsec traveled. For example, a 200-ton ship making a 3-parsec jump would burn 60 tons of fuel.
+Interstellar travel in TevellerRPG uses a faster-than-light engine called the Jump Drive. Jump Drives are rated according to the maximum range in parsecs (represented on the star map as hexagons) they may travel in a single jump. Jump-1 drives can propel a vessel to an adjacent hex, while Jump-3 drives will move a ship up to three hexes. A single voyage through jump-space takes 1 week regardless of the distance traveled. Jump drives require a significant gravity well, like a star system, at both ends of the jump, but not too much gravity. It is impossible to purposefully jump to a destination without a star system. Jump drives are safe to use only at a certain distance from a planetary or stellar body. This is called the Jump Point or Jump Distance. A jump requires an amount of liquid hydrogen fuel equal to 10% of the ship’s volume per parsec traveled. For example, a 200-ton ship making a 3-parsec jump would burn 60 tons of fuel.
 The jump drive propels the ship into a parallel dimension, called Jump Space. The jump fuel serves to envelope the ship with a hydrogen bubble, at a distance of approximately 5m in every direction from the hull – the so-called "Jump Bubble" – to protect it from the alien nature of Jump Space. Characters can safely go on EVA within the bubble but will be lost if they leave it and enter real, unprotected Jump Space – even if still tethered to the ship.
 
 Interstellar Jump Procedure
@@ -2742,7 +2742,7 @@ The procedure for selling goods is the same as purchasing goods: find a buyer on
 
 Traffic and Safety Modifiers
 The Trade Goods have Purchase and Sale DMs that reflect the relative supply and demand realities of the world where those goods are being bought and sold. They are fairly comprehensive, but neglect to consider two important factors that impact prices: the relative amounts of traffic and safety that define the world. High traffic drives purchase and sale prices down, as there are more traders and more merchants competing on a given world. Conversely, worlds that see low traffic tend to have higher prices. As well, worlds that are increasingly unsafe see a dramatic rise in prices as fewer and fewer merchants engage in commerce on those worlds.
-There are two ways to define traffic and safety levels in Cepheus Deluxe. The “classic” way uses the Starport, and Zone Codes found in the UWP. A more qualitative method that we include here meshes with the Space Encounter rules found on p.XX, as well as in Stellagama Publishing’s Piracy and Privateering rulebook.
+There are two ways to define traffic and safety levels in TevellerRPG. The “classic” way uses the Starport, and Zone Codes found in the UWP. A more qualitative method that we include here meshes with the Space Encounter rules found on p.XX, as well as in Stellagama Publishing’s Piracy and Privateering rulebook.
 Traffic, Safety, and Legality Price Modifiers Table
 Starport Code	Traffic Rating	Purchase DM		Starport Code	Traffic Rating	Sale DM
 A	High	+2		A	High	-3
@@ -2773,7 +2773,7 @@ DM+4	20%	A
 Ship Design and Construction
 Starships come in many shapes, configurations, and sizes. Players will typically operate a small vessel, though larger-scale naval, exploration, or merchant-marine campaigns are also possible. This chapter presents a system for designing ships from scratch and for upgrading existing ships.
 These rules classify ships by their volume rather than mass, for reasons of tradition and since the use of the magneto-gravitic maneuver drive makes volume a more important design consideration than mass. Ship designs note vessel sizes in displacement tons: this is how many tons of liquid hydrogen the ship displaces. 1 displacement ton (d-ton or ton, for short) equals approximately 14 cubic meters: a cube roughly 2.4m per side.  On a square grid map where each square is 1.5m per side and 3.0m high, each ton is represented by approximately two squares on the deck plan.
-A note on tech levels: the default interstellar space-opera tech level in Cepheus Deluxe is TL12. Ships designed at lower or higher Tech Levels are possible.
+A note on tech levels: the default interstellar space-opera tech level in TevellerRPG is TL12. Ships designed at lower or higher Tech Levels are possible.
 Also note that these rules present interstellar-level spacecraft designs at TLs 9-16, which are ideal for space-opera campaigns. Societies at TLs 6-8 can also manufacture spacecraft for intra-system travel, but these are considerably more primitive than the interstellar-era craft one can create with these ship construction rules. For the sake of brevity, we will not describe primitive craft here.
 Ship Design Checklist
 1.	Choose hull size.
@@ -2792,7 +2792,7 @@ a.	Add staterooms and cryotubes accordingly.
 11.	Mass-produced ships enjoy a 10% discount.
 
 Ship Hull
-Hulls cost MCr0.1 per ton. This is modified by the ship’s configuration, as given below. The largest available starship hull in Cepheus Deluxe is 10000 tons.
+Hulls cost MCr0.1 per ton. This is modified by the ship’s configuration, as given below. The largest available starship hull in TevellerRPG is 10000 tons.
 Starships can be constructed at Class-A starports, system ships (which lack jump drives) and small craft (vessels under 100 tons) can be constructed at Class-A or Class-B starports. Use the following table to determine the construction time of a spacecraft.
 Spacecraft Construction Times
 Ship Tonnage	Construction Time (weeks)
@@ -3084,7 +3084,7 @@ Add up the cost of various components for the ship’s final cost. Mass-produced
 The question whether a ship is mass-produced is left to the Referee. Custom ships designed by players should not be mass-produced, as compared to standard models pre-designed by the Referee.
 
 Ship Presentation Format
-Below is the default ship stat block format used in Cepheus Deluxe.
+Below is the default ship stat block format used in TevellerRPG.
 
 Template
 The ship’s description is here.
@@ -3108,7 +3108,7 @@ Space Combat
 The spacelanes can be dangerous. Pirates lurk near gas giants and jump points. Vessels belonging to enemy interstellar polities might raid a system and prey on the player characters’ ship. The player characters might decide to engage in some piracy themselves, or they may be the crew of a patrol frigate that has found some pirates or raiders. Use the following rules to run the combat action on such occasions.
 
 Space Combat Basics
-Ships typically fight at a range of several thousand, or tens of thousands, kilometers. However, Cepheus Deluxe abstracts ranges in ship combat. There is no need to track ranges, though creative Referees and players might describe their maneuverings and tactics in terms of range.
+Ships typically fight at a range of several thousand, or tens of thousands, kilometers. However, TevellerRPG abstracts ranges in ship combat. There is no need to track ranges, though creative Referees and players might describe their maneuverings and tactics in terms of range.
 Space combat typically occurs in 6-minute rounds. This time accounts for weapon recharge cycles and long-range missile travel, as well as emergency repairs. Since range is abstracted using the Position mechanic (below), it is possible to run space combats at different time frames. This allows for furious dogfights between fighters, intense chases as smugglers attempt to run blockades, as well as nail-bitingly slow cat-and-mouse actions between pirates and patrol frigates, all using the same basic rules.
 However long a round is in space combat, in each round every crew member may take one action, as detailed below. This means that crew members staffing two posts – such as a pilot also serving as a captain – must choose only one post they are filling in each round. This is the main reason most larger ships, and all military vessels, have dedicated captain and specialized personnel for each crew position. A character may occupy two positions at once, but in each given round, they may only act in one position. For example, smaller civilian starships often have the pilot double as the captain. In such cases, the character must choose every round if they take a piloting action or a captain's command action.
 
@@ -3383,7 +3383,7 @@ These rules greatly abstract astrography by using two-dimensional star maps to r
 When randomly generating a subsector, a world is normally present in each subsector hexagon on a throw of 4+ on 1D. If a world is present, it has a gas giant in its system on a throw of 5+ on 2D. Gas giants are important for exploration as they allow accessible frontier refueling. The Referee is free to increase or decrease the target number to represent denser or sparser regions of space but remember: ships must have a star at each end of their jump, so a very sparse region of space might represent an unpassable boundary for lower tech interstellar civilizations.
 
 World Creation
-The process of creating worlds in Cepheus Deluxe involves making a series of 2D roll and applying modifiers based on the planetary characteristic being generated. It is important to retain the rolled value, after all modifiers, for use with other characteristics. For example, the Size roll is used as a modifier for both the Atmosphere and Hydrographics rolls for the world.
+The process of creating worlds in TevellerRPG involves making a series of 2D roll and applying modifiers based on the planetary characteristic being generated. It is important to retain the rolled value, after all modifiers, for use with other characteristics. For example, the Size roll is used as a modifier for both the Atmosphere and Hydrographics rolls for the world.
 
 Details of the mainworld in a system are determined using the following procedure:
 1.	Roll World Size
@@ -3675,7 +3675,7 @@ Once a world’s characteristics have been developed, the following format can b
 (World), located in hex (hex number) of the (name) subsector, has a diameter of (diameter) km and a surface gravity of (gravity) g. The atmosphere is (atmosphere type). The surface is covered with (hydrographics)% water/fluid (select one). The world has (population) citizens governed by a (government type). The government imposes a Law Level of (law level) restricting (law level restrictions) weapons. The average technology is (tech level). Trade is supported with a Class (starport class) starport and (bases) bases. The world has the following trade codes (trade codes). (add details, history, or other setting specific information).
 
 NPC Presentation Format
-Below is the default NPC stat bloc for Cepheus Deluxe.
+Below is the default NPC stat bloc for TevellerRPG.
 
 Character	STR	DEX	END	INT	EDU	SOC	Lifeblood	Stamina
 Basic Description							2x(END+Athletics skill)	END
@@ -4032,18 +4032,18 @@ Important notice
 This Product is derived from the Traveller System Reference Document and other Open Gaming Content made available by the Open Gaming License and does not contain closed content from products published by either Mongoose Publishing or Far Future Enterprises. This Product is not affiliated with either Mongoose Publishing or Far Future Enterprises, and it makes no claim to or challenge to any trademarks held by either entity. The use of the Traveller System Reference Document does not convey the endorsement of this Product by either Mongoose Publishing or Far Future Enterprises as a product of either of their product lines.
 
 Publishing Your Own Materials
-As you can see at the beginning of this System Reference Document, all the text in this document is designated as Open Gaming Content, except for the titles of products published by Stellagama Publishing – the names “Cepheus Deluxe”, “Cepheus Light”, and “Stellagama Publishing”; and the introductory chapter. The name “Cepheus Engine” is copyrighted by “Samardan Press” and used in this product with their permission.
-This means you can copy whatever parts of Cepheus Deluxe you want, add your own content, change the content around, and publish the result. Note that you will have to comply with the Open Gaming License, as reproduced at the end of this document. If you do not mention any of the trademark elements, you do not need to do anything else.
-However, you can use the "Cepheus Deluxe" trademark, under certain circumstances, to indicate compatibility with this rules system. You must follow the requirements of the Cepheus Deluxe Compatibility-Statement License (CSL), but if you do, you can state that your published material “is compatible with the rules of Cepheus Deluxe” or, “with the Cepheus Deluxe rules” or, “with the Cepheus Deluxe game.” Here are those requirements:
+As you can see at the beginning of this System Reference Document, all the text in this document is designated as Open Gaming Content, except for the titles of products published by Stellagama Publishing – the names “TevellerRPG”, “Cepheus Light”, and “Stellagama Publishing”; and the introductory chapter. The name “Cepheus Engine” is copyrighted by “Samardan Press” and used in this product with their permission.
+This means you can copy whatever parts of TevellerRPG you want, add your own content, change the content around, and publish the result. Note that you will have to comply with the Open Gaming License, as reproduced at the end of this document. If you do not mention any of the trademark elements, you do not need to do anything else.
+However, you can use the "TevellerRPG" trademark, under certain circumstances, to indicate compatibility with this rules system. You must follow the requirements of the TevellerRPG Compatibility-Statement License (CSL), but if you do, you can state that your published material “is compatible with the rules of TevellerRPG” or, “with the TevellerRPG rules” or, “with the TevellerRPG game.” Here are those requirements:
 
-The Cepheus Deluxe Compatibility-Statement License (CSL)
-1.	You must state on the first page where you mention Cepheus Deluxe that “Cepheus Deluxe and Stellagama Publishing are the trademarks of Stellagama Publishing” and that you are not affiliated with Stellagama Publishing.
+The TevellerRPG Compatibility-Statement License (CSL)
+1.	You must state on the first page where you mention TevellerRPG that “TevellerRPG and Stellagama Publishing are the trademarks of Stellagama Publishing” and that you are not affiliated with Stellagama Publishing.
 2.	If you are using the license to commit legal fraud, you forfeit the right to continue using the license: specifically, if you are claiming compatibility with the rules of Cepheus Engine, the claim must not constitute legal fraud, or fraud in the inducement, under the laws of the State of Israel. Note that this requirement is almost impossible to violate unintentionally—it is largely intended to keep us out of trouble, not to restrict legitimate statements of compatibility.
 3.	You must comply with the terms of the OGL if the terms apply.
 4.	Selling a full version of this game with your house rules incorporated into it is perfectly permissible, but you may not sell an effectively unchanged copy of the rules for money.
-5.	If your document is a private house rules document, not being sold for profit or general use, you may scan and use the cover from the printed version, if such version shall be published in print under the title of Cepheus Deluxe, provided that the cover contains the words “House Rules,” near the title.
+5.	If your document is a private house rules document, not being sold for profit or general use, you may scan and use the cover from the printed version, if such version shall be published in print under the title of TevellerRPG, provided that the cover contains the words “House Rules,” near the title.
 6.	Your rights under this CSL cannot be revoked, and are perpetual, unless you breach the terms of the license, in which case your rights terminate.
-7.	If you comply with the above, you may state that your resource is “for use with Cepheus Deluxe”, or “compatible with Cepheus Deluxe”.
+7.	If you comply with the above, you may state that your resource is “for use with TevellerRPG”, or “compatible with TevellerRPG”.
 
 If you have questions about the license, feel free to contact Stellagama Publishing at golan2072@gmail.com.
 
@@ -4105,4 +4105,4 @@ Cepheus Light © 2018, Stellagama Publishing; Authors Omer Golan-Joel and Josh P
 Quick Robots, Copyright © 2019; Author: Michael Brown.
 Modern War © 2020 Zozer Games; Author Paul Elliott.
 Modern War – Gun Conversion © 2020 Zozer Games; Author Paul Elliott.
-Cepheus Deluxe © 2021 Stellagama Publishing; authors Omer Golan-Joel, Josh Peters, Richard Hazlewood, and Robert L. S. Weaver
+TevellerRPG © 2021 Stellagama Publishing; authors Omer Golan-Joel, Josh Peters, Richard Hazlewood, and Robert L. S. Weaver
