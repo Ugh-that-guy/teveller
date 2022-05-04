@@ -1,0 +1,2 @@
+Traits
+Traits are unique features of competent and driven characters, such as player characters. Each character typically has one Trait, though, rarely, particularly experienced and determined characters may have two or even three Traits. Each Trait has a simple Prerequisite, and an effect, which often utilizes an Advantage throw – in which you throw 3D and pick the highest 2 for the throw result.

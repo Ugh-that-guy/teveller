@@ -60,9 +60,9 @@ Normally, a character is either skilled in a task or unskilled. In the latter ca
 
 Zero-Level Skills
 Military and Paramilitary Characters	Purely Civilian Characters
-Athletics	Athletics
-Drive	Drive
-Gun Combat	Zero-G
+Athletics								Athletics
+Drive									Drive
+Gun Combat								Zero-G
 Melee Combat	
 Zero-G	
 
